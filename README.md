@@ -238,7 +238,7 @@ Delivers real-time attention status, confidence metrics, learning resources, ass
 
 ```bash
 # Clone Repository
-git clone https://github.com/kajal-kupale/CursorCam-Attention-Tracker.git
+git clone https://github.com/TulsiEng23/CursorCam-Attention-Tracker.git
 
 # Open Project Directory
 cd "CursorCam Project"
